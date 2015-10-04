@@ -1,5 +1,7 @@
 # Django Tutorial Application
 
+Run `./bin/setup` and enter a password for the admin superuser.
+
 To run the server:
 
     python manage.py runserver
@@ -15,4 +17,4 @@ To run the interactive console:
 Visit http://127.0.0.1:8000/admin
 
 * Username: gabe
-* Password: password
+* Password: whatever you typed when you ran bin/setup
